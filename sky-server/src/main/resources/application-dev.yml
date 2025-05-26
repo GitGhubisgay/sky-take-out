@@ -7,10 +7,10 @@ sky:
     username: root
     password: 123456
   alioss:
-    access-key-id: LTAI5tChzi1g1csczkKBbec9xxxxxxxx
-    access-key-secret: b5Q8lM87zbKlbbxfvyYH8W7fXCOISixxxxx
+    access-key-id: LTAI5tChzi1g1csczkKBbec9Xxxxxxxxc
+    access-key-secret: b5Q8lM87zbKlbbxfvyYH8W7fXCOISiXxxxxc
     endpoint: oss-cn-beijing.aliyuncs.com
-    bucket-name: java-webai-1
+    bucket-name: java-webai-1xxxx
   redis:
     host: 192.168.100.128
     port: 6379
@@ -29,4 +29,4 @@ sky:
   shop:
     address: 北京市朝阳区北苑东路11号院
   baidu:
-    ak: J4CqR7sM6djsOO3EEqHgzxpHY9GUJwxFXXXXXXXXXXXXX
+    ak: J4CqR7sM6djsOO3EEqHgzxpHY9GUJwxFXcxxxcccccccccccc
